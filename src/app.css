@@ -1,0 +1,10 @@
+.card-active-true {
+	border: 7px solid var(--success);
+}
+.offer {
+	text-decoration: line-through;
+}
+.check-circle {
+	position: absolute;
+	color: var(--success);
+}
